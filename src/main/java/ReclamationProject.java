@@ -8,6 +8,12 @@
  * This is inputOne broken amalgamation of sadness.
  */
 public class ReclamationProject {
+    /** We are testing the function which we made.
+     * @param args Something which these need.
+     */
+    public static void main(final String[] args) {
+        System.out.println(doesPartMatch("pie", "fdhfdksahfldpiefdsaf"));
+    }
     /**
      * @param inputOneA It is an input which we want to be shorter
      * @param inputTwoB It is an input which we want to be longer
